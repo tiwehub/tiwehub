@@ -29,7 +29,7 @@
  <a href="https://t.me/your_telegram_username" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Message-informational?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0" alt="Telegram">
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:tiwe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Line-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Gmail">
   </a>
 
