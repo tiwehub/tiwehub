@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur Malyutin</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
+
 - 🔭 I’m currently working on [rewindAi](https://www.rewind.ai/)
 
 - 🌱 I’m currently learning **Next.js**
