@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Timur Malyutin</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
+<h1 align="center">
+  <img align="center" width="50" src="https://i.imgur.com/s8QQP7z.png" alt="GIF"> Hi 👋, I'm Timur Malyutin
+</h1>
+<h3 align="center">Passionate frontend developer from Kazakhstan, dedicated to creating seamless, visually appealing user experiences. Proficient in HTML, CSS, and JavaScript, committed to staying updated on the latest technologies.</h3>
+
 
 # 💫 About Me:
+
+<img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952zmylkkigtgvnr1jipnva59tqf5ymgt04rw3h1qc8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF">
 
 🔭 I’m currently working on [rewindAi](https://www.rewind.ai/)
  
@@ -27,7 +32,6 @@
   <a href="mailto:your.email@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Line-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Gmail">
   </a>
-
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
