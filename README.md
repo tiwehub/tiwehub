@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur Malyutin</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
+<a href="https://tiwehub.space" target="_blank"><img align="right" width="400" src="https://i.imgur.com/s8QQP7z.png" title="source: imgur.com" /></a>
+
 
 - 🔭 I’m currently working on [rewindAi](https://www.rewind.ai/)
 
