@@ -3,14 +3,11 @@
 </h1>
 <h3 align="center">Passionate frontend developer from Kazakhstan, dedicated to creating seamless, visually appealing user experiences. Proficient in HTML, CSS, and JavaScript, committed to staying updated on the latest technologies.</h3>
 
-
 # 💫 About Me:
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952zmylkkigtgvnr1jipnva59tqf5ymgt04rw3h1qc8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF">
 
-[<img align="middle" width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png">](https://hh.kz/resume/c89b7d9bff0c28cf0e0039ed1f59453047375a)[<img align="middle" width="25" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">](https://www.linkedin.com/in/tiwehub/)
-
-
+[<img align="middle" width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png">](https://hh.kz/resume/c89b7d9bff0c28cf0e0039ed1f59453047375a)⠀[<img align="middle" width="25" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">](https://www.linkedin.com/in/tiwehub/)
 
 🌱 I’m currently learning **Next.js**
 
