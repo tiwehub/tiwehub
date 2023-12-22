@@ -8,13 +8,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952zmylkkigtgvnr1jipnva59tqf5ymgt04rw3h1qc8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF">
 
-🔭 I’m currently working on [rewindAi](https://www.rewind.ai/)
- 
 🌱 I’m currently learning **Next.js**
-
-👯 I’m looking to collaborate on [automator](https://automator.design/)
- 
-👨‍💻 All of my projects are available at [https://tiwehub.space/](https://tiwehub.space/)
 
 💬 Ask me about **React,**
 
