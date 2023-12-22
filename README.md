@@ -8,7 +8,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952zmylkkigtgvnr1jipnva59tqf5ymgt04rw3h1qc8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF">
 
-[<img align="middle" width="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png">](https://hh.kz/resume/c89b7d9bff0c28cf0e0039ed1f59453047375a)
+[<img align="middle" width="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"> HedhHunter](https://hh.kz/resume/c89b7d9bff0c28cf0e0039ed1f59453047375a)
 
 🌱 I’m currently learning **Next.js**
 
