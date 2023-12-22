@@ -8,7 +8,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952zmylkkigtgvnr1jipnva59tqf5ymgt04rw3h1qc8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF">
 
-
+#
 
 🌱 I’m currently learning **Next.js**
 
